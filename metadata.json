@@ -1,0 +1,7 @@
+{
+  "name": "NovaStream AI Music",
+  "description": "A high-end AI-powered music exploration app featuring an intelligent DJ, real-time discovery via Gemini, and a stunning visualizer.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
